@@ -8,6 +8,10 @@ This mod will most likely be unbalanced to all hell so...... sorry I guess?
 - 4 teams for certain maps just like in TF2 Classic (allowing for 32v32v32v32 battles for example)
 - A lot of cursed weapons
 - Vehicles. You read that right. Vehicles
+- A bunch of new taunts
+- Custom playermodels maybe?
+- Might improve some stuff in general regarding performance and networking but no promises here
+- New maps designed around the changes above
 - And a bunch of more shit I can't think of right now
 
 ## Note
