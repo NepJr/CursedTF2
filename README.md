@@ -1,5 +1,5 @@
 # CursedTF2
-A mod for Team Fortress 2 that makes the game incredibly cursed by adding a bunch of random stuff.
+A mod for Team Fortress 2, based on the source code from the 2020 leak, that makes the game incredibly cursed by adding a bunch of random stuff.
 This mod will most likely be unbalanced to all hell so...... sorry I guess?
 
 ## Planned features
