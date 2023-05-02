@@ -27,15 +27,15 @@ Release_*/
 *.exp
 *.ilk
 ValveETWProviderEvents.h
-game/client/*/client.lib
-game/server/*/server.lib
-.DS_Store
-build*/
-.cache/
-.ccache/
-waf3*/
-.vscode/
-.depproj/
-source-engine.sln
-hl2/
+source/game/client/*/client.lib
+source/game/server/*/server.lib
+source/.DS_Store
+source/build*/
+source/.cache/
+source/.ccache/
+source/waf3*/
+source/.vscode/
+source/.depproj/
+source/source-engine.sln
+source/hl2/
 
