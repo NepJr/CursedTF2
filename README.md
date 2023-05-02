@@ -2,6 +2,8 @@
 A mod for Team Fortress 2, based on the source code from the 2020 leak, that makes the game incredibly cursed by adding a bunch of random stuff.
 This mod will most likely be unbalanced to all hell so...... sorry I guess?
 
+This is based on the [Source Engine](https://github.com/nillerusr/source-engine) repo here
+
 ## Planned features
 - Increase map size from 32767^3 hammer units to some ridiculously large number^3
 - Increase max players from 32 to 128 (and higher if the game won't have major issues)
